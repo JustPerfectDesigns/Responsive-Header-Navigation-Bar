@@ -1,6 +1,6 @@
 # Responsive Header Navigation Bar
 
-## [Watch it on youtube]()
+## [Watch it on youtube](https://youtu.be/7kpK0k51ah4)
 
 ### Responsive Header Navigation Bar
 
@@ -13,4 +13,4 @@
 
 Join the channel to see more videos like this. [JustPerfect Designs](https://www.youtube.com/c/JustPerfectDesigns)
 
-![responsive bottom navigation](/preview.jpg)
+![Responsive Header Navigation](/preview.jpg)
