@@ -11,6 +11,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Join the channel to see more videos like this. [JustPerfect Designs](https://www.youtube.com/c/JustPerfectDesigns)
+Join the channel to see more videos like this. [JustPerfect Designs](https://www.youtube.com/c/JustPerfectDesigns?sub_confirmation=1)
 
 ![Responsive Header Navigation](/preview.jpg)
