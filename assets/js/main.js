@@ -3,10 +3,12 @@ const navMenu = document.getElementById("main-nav");
 const navOpen = document.getElementById("nav-open");
 const navClose = document.getElementById("nav-close");
 
+/*===== SHOW MENU =====*/
 navOpen.addEventListener("click", () => {
 	navMenu.classList.add("show-menu");
 });
 
+/*===== HIDE MENU =====*/
 navClose.addEventListener("click", () => {
 	navMenu.classList.remove("show-menu");
 });
