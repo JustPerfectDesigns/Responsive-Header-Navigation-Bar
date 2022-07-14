@@ -1,3 +1,4 @@
+// SHOW MENU =========================
 const navMenu = document.getElementById("main-nav");
 const navOpen = document.getElementById("nav-open");
 const navClose = document.getElementById("nav-close");
